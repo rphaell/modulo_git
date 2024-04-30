@@ -1,5 +1,8 @@
-criação de branchs
+
+GIT BRANCHS
 
 1. listar branch = git branch
 2. Ir para a branch master = git checkout master
 3. Criar branch = git branch branch-exemplo
+4. criar uma nova branch pegando o conteudo da branch master = git checkout branch-b
+5. Deletar uma branch = git branch -D branch-a
