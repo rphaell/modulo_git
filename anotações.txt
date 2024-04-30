@@ -1,0 +1,5 @@
+criação de branchs
+
+1. listar branch = git branch
+2. Ir para a branch master = git checkout master
+3. Criar branch = git branch branch-exemplo
